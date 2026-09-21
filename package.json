@@ -1,0 +1,10 @@
+{
+  "name": "cloudgame-doom",
+  "version": "1.0.0",
+  "description": "Cloud game runner for Doom / Freedoom",
+  "main": "register_tunnel.js",
+  "scripts": {
+    "start": "node register_tunnel.js"
+  },
+  "dependencies": {}
+}
